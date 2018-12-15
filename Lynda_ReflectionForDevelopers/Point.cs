@@ -17,7 +17,7 @@ namespace Lynda_ReflectionForDevelopers
         public Point(int x, int y)
         {
             X = x;
-            y = y;
+            Y = y;
 
         }
 
